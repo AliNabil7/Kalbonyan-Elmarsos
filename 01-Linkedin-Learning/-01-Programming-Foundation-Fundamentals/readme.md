@@ -21,4 +21,4 @@
 ---
 
 <br>[Course Link](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/)
-<br>[Preview Certificate](https://drive.google.com/file/d/1A0t5KO35OSa9HAXF_NyCuemEZyLVWHTj/view?usp=sharing)
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/6843428f5bc2e77be51531eea5688b8331fee9f033eb4d68813a940cae830d73?trk=share_certificate)
