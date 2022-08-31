@@ -27,4 +27,6 @@
 
 [Course-Link](https://www.udemy.com/course/modern-javascript/)<br>
 
-![Certificate](https://www.udemy.com/certificate/UC-8b85da6e-3447-4de2-8ebc-02703243bb7e/)
+[Certificate](https://www.udemy.com/certificate/UC-8b85da6e-3447-4de2-8ebc-02703243bb7e/)
+
+![Certificate](./certificate.jpg)

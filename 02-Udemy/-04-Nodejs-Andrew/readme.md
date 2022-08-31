@@ -30,4 +30,6 @@
 
 [Course-Link](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)<br>
 
-![Certificate](https://www.udemy.com/certificate/UC-5e536778-6a4a-4dde-abfe-bcd3304285ed/)
+[Certificate](https://www.udemy.com/certificate/UC-5e536778-6a4a-4dde-abfe-bcd3304285ed)
+
+![Certificate](./certificate.jpg)

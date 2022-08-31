@@ -120,6 +120,9 @@
 
 [Course-Link](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)<br>
 
-![Certificate](https://www.udemy.com/certificate/UC-c4e57f37-1256-4148-9e42-4de9ea2500af/)
+[Certificate](https://www.udemy.com/certificate/UC-c4e57f37-1256-4148-9e42-4de9ea2500af/)
+
+![Certificate](./certificate.jpg)
+
 <br>
 Thank you [@abdelrhman-ahmed-kamal](https://github.com/Abdelrhman-ahmed-kamal) and [@mahmoud-farag](https://github.com/mahmoud-farag) for helping us to write this readme

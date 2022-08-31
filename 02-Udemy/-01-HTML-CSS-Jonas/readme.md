@@ -29,4 +29,6 @@
 
 [Course-Link](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3)<br>
 
-![Certificate](https://www.udemy.com/certificate/UC-52edb268-8a17-44cc-8141-de1ad39ea52e/)
+[Certificate](https://www.udemy.com/certificate/UC-52edb268-8a17-44cc-8141-de1ad39ea52e/)
+
+![Certificate](./certificate.jpg)
