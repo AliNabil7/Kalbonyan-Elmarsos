@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+
+    <title>Pagination</title>
+
+    <style>
+        /*
+            SPACING SYSTEM (px)
+            2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
+
+            FONT SIZE SYSTEM (px)
+            10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+            */
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: "Inter", sans-serif;
+            color: #343a40;
+            line-height: 1;
+        }
+        
+        .flex-container {
+            margin-top: 100px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 16px;
+        }
+        
+        .btn {
+            border: none;
+            background-color: white;
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            cursor: pointer;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .btn:hover {
+            background-color: #087f5b;
+            color: white;
+        }
+        
+        .btn-active {
+            background-color: #087f5b;
+            color: white;
+        }
+        
+        .btn-arrow {
+            border: 1px solid #087f5b;
+            width: 48px;
+            height: 48px;
+        }
+        
+        .btn-arrow:hover .btn-icon {
+            stroke: white;
+        }
+        
+        .btn-icon {
+            width: 24px;
+            height: 24px;
+            stroke: #087f5b;
+        }
+        
+        .sep {
+            color: #868e96;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="flex-container">
+        <button class="btn btn-arrow">
+      <svg xmlns="http://www.w3.org/2000/svg" class="btn-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor"
+        stroke-width="2">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
+      </svg>
+    </button>
+
+        <button class="btn">
+      1
+    </button>
+
+        <button class="btn">
+      2
+    </button>
+
+        <button class="btn btn-active">
+      3
+    </button>
+
+        <button class="btn">
+      4
+    </button>
+
+        <button class="btn">
+      5
+    </button>
+
+        <button class="btn">
+      6
+    </button>
+
+        <span class="sep">...</span>
+
+        <button class="btn">
+      23
+    </button>
+        <button class="btn btn-arrow">
+      <svg xmlns="http://www.w3.org/2000/svg" class="btn-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor"
+        stroke-width="2">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
+      </svg>
+    </button>
+    </div>
+</body>
+
+</html>
